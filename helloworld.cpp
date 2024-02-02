@@ -1,8 +1,8 @@
-// Obligatory "Hello World!" as I begin my journey
+// Obligatory "Hello World!" as I start my journey
 #include <iostream>
 using namespace std;
 
 int main() {
-  cout << "Hello World!" /n;
-return 0;
+    cout << "Hello World!\n"; // Prints out Hello World!
+  return 0;
 }
